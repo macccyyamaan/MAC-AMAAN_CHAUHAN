@@ -11,7 +11,7 @@ This repository is a collection of:
 - Mini-projects and experiments
 - Git/GitHub learning steps
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Programming: Python, C/C++, Java (as I learn)
 - Tools: Git, GitHub, VS Code
