@@ -1,6 +1,6 @@
 # My First GitHub Repository
 
-Welcome to my first GitHub repository! 🚀  
+Welcome to my first GitHub repository!   
 This is where I begin my journey into the world of coding, version control, and open-source collaboration.
 
 ##  About This Repo
