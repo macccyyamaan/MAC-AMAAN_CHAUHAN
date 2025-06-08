@@ -3,7 +3,7 @@
 Welcome to my first GitHub repository! 🚀  
 This is where I begin my journey into the world of coding, version control, and open-source collaboration.
 
-## 📚 About This Repo
+##  About This Repo
 
 This repository is a collection of:
 - Beginner coding practice (Python, C++, etc.)
@@ -11,38 +11,38 @@ This repository is a collection of:
 - Mini-projects and experiments
 - Git/GitHub learning steps
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - Programming: Python, C/C++, Java (as I learn)
 - Tools: Git, GitHub, VS Code
 - OS: Windows / Linux
 
-## 📌 Goals
+##  Goals
 
 - Learn how to use Git and GitHub effectively
 - Practice writing clean and understandable code
 - Build small projects and share them publicly
 - Document my learning progress
 
-## 🧠 What I’ve Learned So Far
+##  What I’ve Learned So Far
 
 - How to create a repository
 - Writing and committing code
 - Using Markdown to write README files
 - Pushing code from local machine to GitHub
 
-## 🚧 Future Plans
+##  Future Plans
 
 - Add new folders for each language/project
 - Learn to use branches and pull requests
 - Collaborate with others on open-source projects
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 If you're also learning to code or want to collaborate, feel free to connect or fork this repo! 😊  
 Stay curious, keep building!
 
 ---
 
-> ✨ *“Every expert was once a beginner.”* – Helen Hayes
+>  *“Every expert was once a beginner.”* – Helen Hayes
 # MAC-AMAAN_CHAUHAN
